@@ -1,0 +1,23 @@
+PERMITTED MODULES:
+
+Question 1:
+numpy
+datetime
+hashlib
+
+Question 2:
+numpy
+datetime
+hashlib
+
+
+Question 3:
+numpy
+datetime
+hashlib
+
+
+**NOTE:**
+You may not use any other modules than the ones listed above. 
+If you think you require access to additional modules, please send a request to hackathon@syftanalytics.com.
+If we approve your request, we will add the module to the list above, and notify you via email.
